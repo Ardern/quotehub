@@ -1,27 +1,45 @@
 # Quotehub
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
+This is a project developed as an Independent Project per the requirements if the CORE stage of the Moringa School Software Program.
 
-## Development server
+### Author Name
+"Sam Ardern"
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Deploy Live link on GitHub Pages
+[View here]https://ardern.github.io/quotehub/
+## Project objectives
+The project covers the following areas of Web and Software Development:
+Understanding the overal structure of web pages
+Using HTML Tags
+Creating classes and IDs
+Styling web pages using CSS
+Linking HTML and css files
+Using JaVascript to implement functions and page interactivity
+Using Angular
 
-## Code scaffolding
+## Technologies Used
+HTML
+CSS
+BootStrap
+Javascript
+JQuery
+Angular
+### Requirements for Deployment
+​
+* A computer device
+​
+* Internet connection
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* A web browser
+### Known Bugs
+The application has no known bugs. Any emerging bugs will be eliminated during the iteration process
+## Authors Info
+Name: Sam Ardern
+Github username @Ardern
 
-## Build
+## MIT License
+Permission is hereby granted, free of charge, to any person obtaining a copy of this project and associated documentation files, to deal in the Sproject without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the project, and to permit persons to whom the project is furnished to do so, subject to the following conditions:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the project.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE PROJECT.
